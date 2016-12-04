@@ -1,0 +1,9 @@
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.Cache
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+c:\users\utente\desktop\documenti\MineRepo\RepoToPush\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
