@@ -25,6 +25,7 @@ namespace Pokemon
             strongbonna.attack(charmender);
             charmender.attack(strongbonna);
             strongbonna.heal();
+            strongbonna.curHp = 7890;
             charmender.heal(strongbonna);
             strongbonna.attack(charmender);
             strongbonna.attack(charmender);
